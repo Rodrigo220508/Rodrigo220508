@@ -1,4 +1,10 @@
-## Hi there 👋
+## Desenvolvedor Full Stack em formação pela Petrobras, apaixonado por tecnologia e inovação.
+Tenho grande interesse na área de TI, sempre buscando aprender novas ferramentas, linguagens e soluções para evoluir como desenvolvedor.
+
+  Gosto de transformar ideias em projetos reais, explorando tanto o desenvolvimento front-end quanto back-end.
+Sou movido pela curiosidade, resolução de problemas e pela vontade constante de crescer no mundo da tecnologia.
+
+  Atualmente focado em aprimorar minhas habilidades em desenvolvimento web, lógica de programação e construção de aplicações modernas e eficientes.
 
 <!--
 **Rodrigo220508/Rodrigo220508** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
