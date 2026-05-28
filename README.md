@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://github.com/Rodrigo220508/Rodrigo220508/blob/main/Blue%20Dynamic%20Welcome%20Class%20Banner%20Horizontal.png">
+</p>
+
 ## Desenvolvedor Full Stack em formação pela Petrobras, apaixonado por tecnologia e inovação.
 Tenho grande interesse na área de TI, sempre buscando aprender novas ferramentas, linguagens e soluções para evoluir como desenvolvedor.
 
