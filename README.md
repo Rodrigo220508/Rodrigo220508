@@ -32,15 +32,22 @@ DevOps & Tools
 
 ## Atualmente estudando
 Arquitetura de Software
+
 Sistemas Distribuídos
+
 Docker & DevOps
+
 Inteligência Artificial
+
 Performance Backend
 
 ## Objetivos
 Construir projetos full stack reais
+
 Evoluir em backend e arquitetura
+
 Aprender cloud/devops
+
 Criar aplicações modernas e escaláveis
 
 ## Contato
