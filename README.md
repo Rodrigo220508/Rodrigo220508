@@ -1,16 +1,49 @@
+
+
+# 👋 Olá, eu sou Rodrigo Gonçalves Zefino 
+# Full Stack Developer focused on building modern web applications and scalable systems.
+
 <p align="center">
 <img src="https://github.com/Rodrigo220508/Rodrigo220508/blob/main/Blue%20Dynamic%20Welcome%20Class%20Banner%20Horizontal.png">
 </p>
 
-## Desenvolvedor Full Stack em formação pela Petrobras, apaixonado por tecnologia e inovação.
-Tenho grande interesse na área de TI, sempre buscando aprender novas ferramentas, linguagens e soluções para evoluir como desenvolvedor.
+## Sobre mim
 
-  Gosto de transformar ideias em projetos reais, explorando tanto o desenvolvimento front-end quanto back-end.
-Sou movido pela curiosidade, resolução de problemas e pela vontade constante de crescer no mundo da tecnologia.
+Dsenvolvedor Full Stack apaixonado por tecnologia, engenharia de software e construção de aplicações modernas.
 
-  Atualmente focado em aprimorar minhas habilidades em desenvolvimento web, lógica de programação e construção de aplicações modernas e eficientes.
- 
-## 📫 Contato
+Atualmente focado em desenvolvimento web utilizando React, Node.js e PostgreSQL, criando projetos com foco em performance, escalabilidade e experiência do usuário.
+
+Tenho interesese especial em:
+
+desenvolvimento backend
+arquitetura de software
+APIs REST
+automação
+cloud & devops
+inteligência artificial
+
+## Stack principal
+
+Frontend
+
+Backend
+
+DevOps & Tools
+
+## Atualmente estudando
+Arquitetura de Software
+Sistemas Distribuídos
+Docker & DevOps
+Inteligência Artificial
+Performance Backend
+
+## Objetivos
+Construir projetos full stack reais
+Evoluir em backend e arquitetura
+Aprender cloud/devops
+Criar aplicações modernas e escaláveis
+
+## Contato
 
 <p align="center">
    <a href="https://www.linkedin.com/in/rodrigo-gon%C3%A7alves-310471401/" target="_blank">
