@@ -7,8 +7,9 @@ Sou movido pela curiosidade, resolução de problemas e pela vontade constante d
   Atualmente focado em aprimorar minhas habilidades em desenvolvimento web, lógica de programação e construção de aplicações modernas e eficientes.
   <p align="center">
   <img src="https://img.shields.io/badge/Administração-6D4C41?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TI-Full%20Stack-0A66C2?style=for-the-badge"/>
 
-## Contato
+## 📫 Contato
 
 <p align="center">
    <a href="https://www.linkedin.com/in/rodrigo-gon%C3%A7alves-310471401/" target="_blank">
