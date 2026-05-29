@@ -8,7 +8,7 @@
 </p>
 
 ## Sobre mim
-
+Tenho 18 anos, moro em Canoas/RS, estudo no colégio Bento Gonçalves, terceito ano integrado ao técnico em ADM.
 Dsenvolvedor Full Stack apaixonado por tecnologia, engenharia de software e construção de aplicações modernas.
 
 Atualmente focado em desenvolvimento web utilizando React, Node.js e PostgreSQL, criando projetos com foco em performance, escalabilidade e experiência do usuário.
