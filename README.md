@@ -14,7 +14,7 @@
 
 Tenho 18 anos e moro em Canoas/RS. Atualmente estudo no Colégio Estadual Bento Gonçalves, cursando o 3º ano do Ensino Médio integrado ao Técnico em Administração.
 
-Sou apaixonado por tecnologia, desenvolvimento de software e construção de aplicações modernas.
+Gosto muito de tecnologia, desenvolvimento de software e construção de aplicações modernas.
 
 Atualmente estou focado em desenvolvimento web utilizando **React, Node.js e PostgreSQL**, criando projetos com foco em **performance, escalabilidade e experiência do usuário**.
 
